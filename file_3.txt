@@ -1,3 +1,6 @@
 file3 - IHR Seller
 file3 - Using TFS
 file3 - Git Hub Training
+file3 - Strange Ramblings about Octocats
+file3 - List of Octocat Baby Names
+file3 - Chronicles of Octocat
